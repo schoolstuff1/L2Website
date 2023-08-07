@@ -1,0 +1,98 @@
+body {
+  background-image: url("bg.jpeg");
+  background-size: cover;
+}
+
+.banner {
+  display: block;
+  margin: auto;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  display: inline-block;
+  color: red;
+  text-decoration: none;
+  padding: 20px;
+}
+
+a:hover {
+  background-color: black;
+  color: red;
+}
+
+nav {
+  font-family: 'Antic Slab', serif;
+  background-color: black;
+  border-radius: 20px;
+}
+
+section {
+  width: 60% margin: auto;
+  background-color: black;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+header {
+  color: red;
+  font-size: 100px;
+  background-color: black;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+p1 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+  font-size: 40px;
+}
+
+p2 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+  font-size: 40px;
+}
+
+p3 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+  font-size: 40px;
+}
+
+h1 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+}
+
+h2 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+}
+
+h3 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+}
+
+h4 {
+  color: red;
+  font-family: 'Antic Slab', serif;
+}
+
+img {
+  margin: auto;
+  display: block;
+  height: 400px;
+  width: 300px;
+}
