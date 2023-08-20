@@ -1,5 +1,5 @@
 body {
-  background-image: url("bg.jpeg");
+  background-image: url("acbg.webp");
   background-size: cover;
 }
 
@@ -18,14 +18,14 @@ li {
 
 a {
   display: inline-block;
-  color: red;
+  color: gold;
   text-decoration: none;
   padding: 20px;
 }
 
 a:hover {
   background-color: black;
-  color: red;
+  color: gold;
 }
 
 nav {
@@ -42,57 +42,62 @@ section {
 }
 
 header {
-  color: red;
+  color: gold;
   font-size: 100px;
   background-color: black;
 }
 
 p {
   font-family: Arial, Helvetica, sans-serif;
-  color: red;
+  color: gold;
 }
 
 p1 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
   font-size: 40px;
 }
 
 p2 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 p3 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
   font-size: 40px;
 }
 
 h1 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
 }
 
 h2 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
 }
 
 h3 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
 }
 
 h4 {
-  color: red;
+  color: gold;
   font-family: 'Antic Slab', serif;
 }
 
 img {
   margin: auto;
   display: block;
-  height: 400px;
+  height: 100px;
+  width: 350px;
+}
+
+group2 {
+  height: 300px;
   width: 300px;
 }
