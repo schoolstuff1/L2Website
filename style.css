@@ -67,7 +67,7 @@ p2 {
 p3 {
   color: gold;
   font-family: 'Antic Slab', serif;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 h1 {
@@ -90,14 +90,25 @@ h4 {
   font-family: 'Antic Slab', serif;
 }
 
-img {
-  margin: auto;
-  display: block;
-  height: 100px;
-  width: 350px;
+header {
+  font-size: 50px;
 }
 
-group2 {
-  height: 300px;
-  width: 300px;
+figcaption {
+  color: gold;
+}
+
+button {
+  background-color: gold;
+  color: black;
+  border-radius: 50px;
+  font-family: 'Antic Slab', serif;
+  font-size: 50px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
 }
